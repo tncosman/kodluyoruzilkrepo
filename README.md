@@ -1,5 +1,4 @@
 # Kodluyoruz İlk Repo
-![Alt text](../adsiz.png)
 
 Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
@@ -27,3 +26,5 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 ##Licence
 ---
 [MIT](https://choosealicense.com/licenses/mit/)
+
+![Fotoğraf Örneği](https://picsum.photos/200/300)
