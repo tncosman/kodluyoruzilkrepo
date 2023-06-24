@@ -1,6 +1,6 @@
 # Kodluyoruz İlk Repo
+![Alt text](../adsiz.png)
 
-![deneyerek ogrenecegim sanirim](../Ads%C4%B1z.png)
 Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
 ##Installation
